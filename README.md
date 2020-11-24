@@ -44,7 +44,7 @@ The Udacity "Version Control with Git course" is magnificent. So satisfied with 
 * HTTP headers and their usage ;
 * Details about the way of how does the caching mechanism work and its validation.
 
-### What did suprise me? :open_mouth:
+### What did surprise me? :open_mouth:
 
 * Websites typically use Basic Authentication.
 
@@ -54,5 +54,59 @@ The Udacity "Version Control with Git course" is magnificent. So satisfied with 
 * Authentication and its mechanisms (MD5, SHA) in conjunction with SSL and TLS;
 * Caching for improving the experience on the web by the usage of caching headers, which 
 also provide optimization of bandwidth usage and save time expenditures.
+
+
+---
+
+## Git Collaboration
+
+### Task 2 screenshots can be found below:
+
+<details> 
+	<summary>GitHub & Collaboration</summary>
+
+![Udacity course](task_git_collaboration/udacity.png)
+
+</details>
+
+<details> 
+	<summary>Learngitbranching Remote</summary>
+
+![Learngitbranching Remote](task_git_collaboration/learngit_1.png)
+
+</details>
+
+<details> 
+	<summary>Learngitbranching Main</summary>
+
+![Learngitbranching Main](task_git_collaboration/learngit_2.png)
+
+</details>
+
+
+---
+
+### What was new?  :green_book:
+
+* How the collaboration with other developers happens;
+* The difference between the forked repo and the source one and its syncing;
+* The king of commits management aka `rebase`;
+* Tools for the rapid finding of the necessary information in commits history _(previously used git log and piped it to grep)_.
+
+### What did surprise me?  :smiley_cat:
+
+* The power of `git rebase` and its user-friendliness provided by the interactive mode.
+
+### Intentions for further usage :raising_hand: :
+
+Seems like I've become invincible after that task! Just kidding:)
+More practice is vitally necessary.
+
+* Work with code published in remote repo's;
+* Develop on shared repo's;
+* Collaborate with people around the globe;
+* Keep commits history well-tended.
+
+
 
 
