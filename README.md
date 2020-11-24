@@ -10,28 +10,28 @@ The Udacity "Version Control with Git course" is magnificent. So satisfied with 
 <details> 
 	<summary> Module 1</summary>
 
-	![Module 1](task_linux_cli/module_1.png)
+![Module 1](task_linux_cli/module_1.png)
 
 </details>
 
 <details> 
 	<summary> Module 2</summary>
 
-	![Module 2](task_linux_cli/module_2.png)
+![Module 2](task_linux_cli/module_2.png)
 
 </details>
 
 <details> 
 	<summary> Module 3</summary>
 
-	![Module 3](task_linux_cli/module_3.png)
+![Module 3](task_linux_cli/module_3.png)
 
 </details>
 
 <details> 
 	<summary> Module 4</summary>
 
-	![Module 4](task_linux_cli/module_4.png)
+![Module 4](task_linux_cli/module_4.png)
 	
 </details>
 
