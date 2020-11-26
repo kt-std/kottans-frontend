@@ -35,7 +35,6 @@ The Udacity "Version Control with Git course" is magnificent. So satisfied with 
 	
 </details>
 
----
 
 ### What was new? :books:
 
@@ -57,6 +56,7 @@ also provide optimization of bandwidth usage and save time expenditures.
 
 
 ---
+
 
 ## Git Collaboration
 
@@ -84,7 +84,6 @@ also provide optimization of bandwidth usage and save time expenditures.
 </details>
 
 
----
 
 ### What was new?  :green_book:
 
@@ -108,5 +107,46 @@ More practice is vitally necessary.
 * Keep commits history well-tended.
 
 
+---
 
 
+## Intro to HTML and CSS
+
+### Task 3 screenshots can be found below:
+
+<details> 
+	<summary>Intro to HTML & CSS</summary>
+
+![Intro to HTML & CSS](task_html_css_intro/intro.png)
+
+</details>
+
+<details> 
+	<summary>Learn HTML</summary>
+
+![Learn HTML](task_html_css_intro/learn_html.png)
+
+</details>
+
+<details> 
+	<summary>Learn CSS</summary>
+
+![Learn CSS](task_html_css_intro/learn_css.png)
+
+</details>
+
+### What was new?   :orange_book:
+
+* Several semantic tags and purposes of their usage;
+* Typography details such as the addition of `word-spacing` property value to the default spacing;
+* Certain information about particularities of grid layouts implementation.
+
+### What did surprise me? :ok_woman:
+
+* Making of layouts with grids and flex boxes can be so comfy and even [that much](https://media.giphy.com/media/d1MoLyoyipfMc/giphy.gif) flexible. Now I'm 1000% sure that they earned their title!
+
+### Intentions for further usage  :computer: :
+
+*  Application of tags attributes alongside semantic tags in the markup for gaining higher search engine ranking and as assistance for people with disabilities;
+* Creation of responsive web pages' layouts with such PRO techniques as CSS Grid and Flexbox.
+* Implementation of CSS animation as a lightweight solution for developing interactive pages.
