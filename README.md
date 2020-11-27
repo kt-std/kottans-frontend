@@ -60,7 +60,7 @@ also provide optimization of bandwidth usage and save time expenditures.
 
 ## Git Collaboration
 
-### Task 2 screenshots can be found below:
+### Task 3 screenshots can be found below:
 
 <details> 
 	<summary>GitHub & Collaboration</summary>
@@ -112,7 +112,7 @@ More practice is vitally necessary.
 
 ## Intro to HTML and CSS
 
-### Task 3 screenshots can be found below:
+### Task 4 screenshots can be found below:
 
 <details> 
 	<summary>Intro to HTML & CSS</summary>
@@ -150,3 +150,42 @@ More practice is vitally necessary.
 *  Application of tags attributes alongside semantic tags in the markup for gaining higher search engine ranking and as assistance for people with disabilities;
 * Creation of responsive web pages' layouts with such PRO techniques as CSS Grid and Flexbox.
 * Implementation of CSS animation as a lightweight solution for developing interactive pages.
+
+
+---
+
+
+## Responsive Web Design
+
+### Task 5 screenshots can be found below:
+
+<details> 
+	<summary>Responsive Web Design Fundamentals</summary>
+
+![Responsive Web Design Fundamentals](task_responsive_web_design/responsive.png)
+
+</details>
+
+<details> 
+	<summary>Flexbox Froggy</summary>
+
+![Flexbox Froggy](task_responsive_web_design/froggy.png)
+
+</details>
+
+### What was new? :closed_book:
+
+* Tips for making responsive data tables;
+* RWD patterns: _Column Drop, Layout Shifter, Mostly Fluid, Off Canvas_;
+* Average width of the index finger is in the range 16 - 20 mm for most adults, therefore buttons and all "clickable" targets have to be not less than 45 pixels (or have enough space around them) for being finger-friendly;
+* Peculiarities of working with viewport and perception of DIP.
+
+### What did surprise me?  :hushed:
+
+* Actually, it's not quite obvious that making the website layout in reverse order (from mobile to desktop) can save you a lot of time and nerves. [Thank u](task_responsive_web_design/helpful.gif) for recommending that course! 
+
+### Intentions for further usage :bulb: :
+
+* Creation of responsive websites for any kind of device with both major and minor breakpoints to fit the need of even the most exacting users and give it a perfect look.
+
+The Responsive Web Design Fundamentals course referred to [that course](https://www.udacity.com/course/responsive-images--ud882) on one of its stages, which provides extremely valuable information on the optimization of images.
