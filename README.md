@@ -189,3 +189,79 @@ More practice is vitally necessary.
 * Creation of responsive websites for any kind of device with both major and minor breakpoints to fit the need of even the most exacting users and give it a perfect look.
 
 The Responsive Web Design Fundamentals course referred to [that course](https://www.udacity.com/course/responsive-images--ud882) on one of its stages, which provides extremely valuable information on the optimization of images.
+
+
+---
+
+
+## JS Basics
+
+### Task 7 screenshots can be found below:
+
+<details> 
+	<summary>Intro to JS</summary>
+
+![Intro to JS](task_js_basics/intro_js.png)
+
+</details>
+
+<details> 
+	<summary>Basic JavaScript</summary>
+
+![Basic JavaScript](task_js_basics/basic_js.png)
+
+</details>
+
+<details> 
+	<summary>ES6 Challenges </summary>
+
+![ES6 Challenges ](task_js_basics/es6.png)
+
+</details>
+
+<details> 
+	<summary>Basic Data Structures</summary>
+
+![Basic Data Structures](task_js_basics/basic_data_structures.png)
+
+</details>
+
+<details> 
+	<summary>Basic Algorithm Scripting</summary>
+
+![Basic Algorithm Scripting](task_js_basics/basic_algorithm.png)
+
+</details>
+
+<details> 
+	<summary>Functional Programming </summary>
+
+![Functional Programming ](task_js_basics/functional.png)
+
+</details>
+
+<details> 
+	<summary>Algorithm Scripting Challenges</summary>
+
+![Algorithm Scripting Challenges](task_js_basics/intermediate_algo.png)
+
+</details>
+
+### What was new? :blue_book:
+
+ES6 brought happiness to my life by providing such features as:
+
+* `const` and `let` as an appropriate way of defining variables with limited scope peculiarities that make code much stable;
+* Arrow functions with their concise syntaxis allowing to omit near a half of function's syntaxis constructions in its declaration;
+* Template literal strings in conjunction with interpolation (totally in love with it);
+* Built-in module system capable of easily `import` and `export` any necessary code;  
+* Incredibly powerful and flexible spread operator `...` 
+
+
+### What did surprise me?   :clap:
+
+* [To what extent ES6 and functional programming(FP) facilitate developers' lives](https://media.giphy.com/media/NnGGHE0muVqpO/giphy.gif) by offering the great opportunities mentioned above.
+
+### Intentions for further usage  :running: :
+
+*  Development of easily maintainable, stable code with high performance by using the ES6 standard and FP approaches. 
