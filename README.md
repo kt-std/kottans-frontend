@@ -265,3 +265,42 @@ ES6 brought happiness to my life by providing such features as:
 ### Intentions for further usage  :running: :
 
 *  Development of easily maintainable, stable code with high performance by using the ES6 standard and FP approaches. 
+
+---
+
+
+## DOM
+
+### Task 8 screenshots can be found below:
+
+<details> 
+	<summary>JavaScript and the DOM</summary>
+
+![JavaScript and the DOM<](task_js_dom/intermedate_algo.png)
+
+</details>
+
+<details> 
+	<summary>Algorithm Scripting Challenges</summary>
+
+![Algorithm Scripting Challenges](task_js_dom/js_dom.png)
+
+</details>
+
+JavaScript DOM task demo can be found [here](https://kt-std.github.io/js-dom/).
+
+### What was new?  :ledger:
+
+* Methods of DOM manipulation, DOM's structure, and how it can be accessed; 
+* Ways of creating content and adding it to the DOM;
+* Peculiarities of page rendering with reflow and repaint and ways of its optimization while adding new content;
+* Phases of events, how it influences of listeners invocation;
+* Events delegation model for the avoidance of redundant events listeners creation.
+
+### What did surprise me? :flushed:
+
+* The concurrency model presented by event loops and the whole scheme defining how events performed.   
+
+### Intentions for further usage :eyes:
+
+*  Unlimited abilities! Let's start from the usage of JavaScript for creating pages with dynamic data and manipulating its content.
