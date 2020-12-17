@@ -276,7 +276,7 @@ ES6 brought happiness to my life by providing such features as:
 <details> 
 	<summary>JavaScript and the DOM</summary>
 
-![JavaScript and the DOM<](task_js_dom/intermedate_algo.png)
+![JavaScript and the DOM](task_js_dom/intermedate_algo.png)
 
 </details>
 
@@ -304,3 +304,42 @@ JavaScript DOM task demo can be found [here](https://kt-std.github.io/js-dom/).
 ### Intentions for further usage :eyes:
 
 *  Unlimited abilities! Let's start from the usage of JavaScript for creating pages with dynamic data and manipulating its content.
+
+---
+
+## Object Oriented JS
+
+### Task 10 screenshots can be found below:
+
+<details> 
+	<summary>Object Oriented JS</summary>
+
+![Object Oriented JS](task_object_oriented_js/oojs.png)
+
+</details>
+
+<details> 
+	<summary>Codewars</summary>
+
+[Link to account](https://www.codewars.com/users/kt-std)
+
+![Codewars](task_object_oriented_js/codewars.png)
+
+</details>
+
+Object Oriented JS task demo can be found [here](https://kt-std.github.io/arcade-game/). Enjoy! :santa:
+
+### What was new?   :christmas_tree:
+
+* Scopes and closures; 
+* `This` such a great thing which allows you easily referencing  the certain object for manipulation and what it is considered to be due to the invocation context;
+* Super- and subclasses themselves and their usage for duplication reduction
+
+
+### What did surprise me?  :gift:
+
+* Inheritance chaining model presented by prototype and how it influences on the end objects   
+
+### Intentions for further usage :bell:
+
+*  Creation of flexible code that can be easily reused and extended 
