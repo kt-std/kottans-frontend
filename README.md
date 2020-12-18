@@ -343,3 +343,11 @@ Object Oriented JS task demo can be found [here](https://kt-std.github.io/arcade
 ### Intentions for further usage :bell:
 
 *  Creation of flexible code that can be easily reused and extended 
+---
+
+## OOP exercise
+
+
+OOP task demo can be found [here](https://kt-std.github.io/a-tiny-JS-world/). 
+
+Gaining benefits from incremental learning  :relieved:
