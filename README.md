@@ -343,6 +343,7 @@ Object Oriented JS task demo can be found [here](https://kt-std.github.io/arcade
 ### Intentions for further usage :bell:
 
 *  Creation of flexible code that can be easily reused and extended 
+
 ---
 
 ## OOP exercise
@@ -351,3 +352,12 @@ Object Oriented JS task demo can be found [here](https://kt-std.github.io/arcade
 OOP task demo can be found [here](https://kt-std.github.io/a-tiny-JS-world/). 
 
 Gaining benefits from incremental learning  :relieved:
+
+---
+
+## Memory pair game
+
+
+Memory pair game can be found [here](https://kt-std.github.io/memory-pair-game/). 
+
+Enjoy training your memory!  :space_invader:
