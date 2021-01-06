@@ -361,3 +361,10 @@ Gaining benefits from incremental learning  :relieved:
 Memory pair game can be found [here](https://kt-std.github.io/memory-pair-game/). 
 
 Enjoy training your memory!  :space_invader:
+
+---
+
+## Friends App
+
+
+Friends app can be found [here](https://kt-std.github.io/friends-app/). :two_men_holding_hands:
