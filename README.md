@@ -377,12 +377,15 @@ The information that definitely needs absorbing.
 ### What did surprise me? :point_up:
 
 * The fact that Service Workers act as proxies, therefore any request can be responded with custom content  
+* To perform any operation with DB you have to start a transaction
 
 ### Intentions for further usage :tada:
 
 * Creation of offline web applications for better UX by applying Service Workers API means, caches, and built-in DB, for instance, IndexedDB
 
-P.S. Sincerely hope that these tips will help someone to run the Wittr project much faster than I did (worked on Linux):
+#### Hints and tips
+
+Sincerely hope that these tips will help someone to run the Wittr project much faster than I did (tested with Linux):
 
 1. Install `nvm` to manage the different node version. Installation instructions can be found [here](https://github.com/nvm-sh/nvm#installing-and-updating).
 2. **Important!** Install node **v10.17.0**.
@@ -392,7 +395,7 @@ P.S. Sincerely hope that these tips will help someone to run the Wittr project m
 
 *If you are feeling totally oppressed, check [this one](https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities#turning-off-npm-audit-on-package-installation).*
 
-P.P.S. If there are no images after running the application, add [this code](https://github.com/jakearchibald/wittr/issues/82#issuecomment-735363861) to your `/server/Server.js` file.
+P.S. If there are no images after running the application, add [this code](https://github.com/jakearchibald/wittr/issues/82#issuecomment-735363861) to your `/server/Server.js` file.
 
 ---
 
