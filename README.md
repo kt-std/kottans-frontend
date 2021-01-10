@@ -355,6 +355,34 @@ Gaining benefits from incremental learning  :relieved:
 
 ---
 
+## Offline Web Applications
+
+### Task 12 screenshots can be found below:
+
+<details> 
+	<summary>Offline Web Applications</summary>
+
+![Offline Web Applications](task_offline_web_app/offline_web_app.png)
+
+</details>
+
+### What was new? :signal_strength:
+
+* Service Workers API, its lifecycle
+* Browser cache, its structure, and how to interact with it
+* IndexedDB and how it can be used for providing offline-first web app
+
+
+### What did surprise me? :point_up:
+
+* The fact that Service Workers act as proxies, therefore any request can be responded with custom content  
+
+### Intentions for further usage :tada:
+
+* Creation of offline web applications for better UX by applying Service Workers API means, caches, and built-in DB, for instance, IndexedDB
+
+---
+
 ## Memory pair game
 
 
