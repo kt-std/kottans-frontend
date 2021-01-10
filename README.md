@@ -366,12 +366,13 @@ Gaining benefits from incremental learning  :relieved:
 
 </details>
 
+The information that definitely needs absorbing.
+
 ### What was new? :signal_strength:
 
-* Service Workers API, its lifecycle
+* Service Workers API, SWs lifecycle
 * Browser cache, its structure, and how to interact with it
 * IndexedDB and how it can be used for providing offline-first web app
-
 
 ### What did surprise me? :point_up:
 
@@ -380,6 +381,18 @@ Gaining benefits from incremental learning  :relieved:
 ### Intentions for further usage :tada:
 
 * Creation of offline web applications for better UX by applying Service Workers API means, caches, and built-in DB, for instance, IndexedDB
+
+P.S. Sincerely hope that these tips will help someone to run the Wittr project much faster than I did (worked on Linux):
+
+1. Install `nvm` to manage the different node version. Installation instructions can be found [here](https://github.com/nvm-sh/nvm#installing-and-updating).
+2. **Important!** Install node **v10.17.0**.
+3. If you've several versions of node installed, don't forget to switch to the correct one via `nvm use v10.17.0`.
+4. To check which node version you are using try `node -v`.
+5. Fix problems with node packages via installing missed one with `npm i packageName@version`. The whole list of packages versions is available [here](https://www.npmjs.com/).
+
+*If you are feeling totally oppressed, check [this one](https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities#turning-off-npm-audit-on-package-installation).*
+
+P.P.S. If there are no images after running the application, add [this code](https://github.com/jakearchibald/wittr/issues/82#issuecomment-735363861) to your `/server/Server.js` file.
 
 ---
 
