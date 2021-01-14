@@ -193,6 +193,14 @@ The Responsive Web Design Fundamentals course referred to [that course](https://
 
 ---
 
+## HTML&CSS Popup
+
+
+Hooli-style Popup can be found [here](https://kt-std.github.io/html-css-popup/).  :bell:
+
+Task sources available [here](https://github.com/kt-std/html-css-popup). 
+
+---
 
 ## JS Basics
 
@@ -289,6 +297,8 @@ ES6 brought happiness to my life by providing such features as:
 
 JavaScript DOM task demo can be found [here](https://kt-std.github.io/js-dom/).
 
+Task sources available [here](https://github.com/kt-std/js-dom). 
+
 ### What was new?  :ledger:
 
 * Methods of DOM manipulation, DOM's structure, and how it can be accessed; 
@@ -329,6 +339,8 @@ JavaScript DOM task demo can be found [here](https://kt-std.github.io/js-dom/).
 
 Object Oriented JS task demo can be found [here](https://kt-std.github.io/arcade-game/). Enjoy! :santa:
 
+Task sources available [here](https://github.com/kt-std/arcade-game). 
+
 ### What was new?   :christmas_tree:
 
 * Scopes and closures; 
@@ -350,6 +362,8 @@ Object Oriented JS task demo can be found [here](https://kt-std.github.io/arcade
 
 
 OOP task demo can be found [here](https://kt-std.github.io/a-tiny-JS-world/). 
+
+Task sources available [here](https://github.com/kt-std/kottans-frontend/tree/main/task_tiny_js_world).
 
 Gaining benefits from incremental learning  :relieved:
 
@@ -404,6 +418,8 @@ P.S. If there are no images after running the application, add [this code](https
 
 Memory pair game can be found [here](https://kt-std.github.io/memory-pair-game/). 
 
+Task sources available [here](https://github.com/kt-std/memory-pair-game).
+
 Enjoy training your memory!  :space_invader:
 
 ---
@@ -412,3 +428,5 @@ Enjoy training your memory!  :space_invader:
 
 
 Friends app can be found [here](https://kt-std.github.io/friends-app/). :two_men_holding_hands:
+
+Task sources available [here](https://github.com/kt-std/friends-app).
